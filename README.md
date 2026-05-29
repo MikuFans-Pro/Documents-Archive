@@ -19,20 +19,6 @@
 - **喵内酒馆**
 - **MetaZone** / **MetaLab** / **MetaACG**
 
-## 目录
-
-```
-之零    插件开发笔记                       审核插件的开发与失败经验
-之一    别在后台卸载扩展                   Composer Web 卸载导致全站 500
-之二    讨论链接改成纯 ID                  讨论链接 /d/{id} 纯数字改造
-之三    jsdelivr 在国内挂了               jsdelivr CDN 国内不可用的四层替换方案（1.x）
-之四    loader.min.js 依赖地狱            hljs-loader 内部 fallback + 竞态条件修复
-之五    升级实录                          Flarum 1.8 → 2.0 RC1 完整升级记录
-之六    CDN 本地化再战 2.0                2.0 升级后 CDN 残留清除 + assets:publish RC1 bug
-之七    disable-email-notifications 适配  自定义扩展适配 Flarum 2.0
-之八    20坑复盘与部署路线图（最终章？）    全系列回顾与国内部署最小踩坑路径
-```
-
 ## 许可
 
 本仓库所有文章采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可协议。
