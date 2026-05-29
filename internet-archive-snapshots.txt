@@ -1,0 +1,30 @@
+[主站] MetaLab 首页
+https://web.archive.org/web/20260529084728/https://lab.metazone.cc/
+
+
+Flarum 之零 - 一个 Flarum 插件的开发笔记：从"一行代码"到放弃
+https://web.archive.org/web/20260529085530/https://lab.metazone.cc/d/2
+
+Flarum 之一 - 别在 Flarum 后台卸载扩展，会炸
+https://web.archive.org/web/20260529085639/https://lab.metazone.cc/d/3
+
+Flarum 之二 - Flarum 讨论链接改成纯 ID，干掉中文拼音 slug
+https://web.archive.org/web/20260529085749/https://lab.metazone.cc/d/5
+
+Flarum 之三 - Flarum 部署后的连环坑之：jsdelivr 在国内挂了
+https://web.archive.org/web/20260529085856/https://lab.metazone.cc/d/7
+
+Flarum 之四 - Flarum 部署后的连环坑之：loader.min.js 依赖地狱（最终章？）
+https://web.archive.org/web/20260529085954/https://lab.metazone.cc/d/8
+
+Flarum 之五 - Flarum 1.8 → 2.0 RC1 升级实录
+https://web.archive.org/web/20260529090202/https://lab.metazone.cc/d/9
+
+Flarum 之六 - CDN 本地化再战——2.0 升级后 jsdelivr 残留清除
+https://web.archive.org/web/20260529090312/https://lab.metazone.cc/d/10
+
+Flarum 之七 - disable-email-notifications 扩展适配Flarum 2.0
+https://web.archive.org/web/20260529090446/https://lab.metazone.cc/d/11
+
+Flarum之八--20坑复盘与国内部署最小踩坑路径（最终章？）
+https://web.archive.org/web/20260529085214/https://lab.metazone.cc/d/13
