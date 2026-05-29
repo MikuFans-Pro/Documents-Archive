@@ -119,4 +119,4 @@ journalctl _COMM=sudo -o json --since "2026-05-01" | jq '.MESSAGE'
 就是一个小知识：你每次 `sudo`，系统都帮你记着。记性不好？让 Linux 帮你记。
 
 ---
-*首发于 [MetaLab](https://lab.metazone.cc/d/14)*
+*首发于 [MetaLab](https://lab.metazone.cc/d/15)*
