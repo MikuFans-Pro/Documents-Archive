@@ -22,11 +22,15 @@
 之五    升级实录                          1.8 → 2.0 RC1，9 个坑的完整记录
 之六    CDN 本地化再战 2.0                2.0 升级后 jsdelivr 残留清除 + assets:publish RC1 bug
 之七    disable-email-notifications 适配  自定义扩展适配 2.0，只改两行
+之八    就是本文，你正在看。
+之九    integrity hash 死灰复燃          少删一个属性，integrity 死灰复燃
 ```
 
-> 原帖链接：[之零](https://lab.metazone.cc/d/2) · [之一](https://lab.metazone.cc/d/3) · [之二](https://lab.metazone.cc/d/5) · [之三](https://lab.metazone.cc/d/7) · [之四](https://lab.metazone.cc/d/8) · [之五](https://lab.metazone.cc/d/9) · [之六](https://lab.metazone.cc/d/10) · [之七](https://lab.metazone.cc/d/11)
+> 原帖链接：[之零](https://lab.metazone.cc/d/2) · [之一](https://lab.metazone.cc/d/3) · [之二](https://lab.metazone.cc/d/5) · [之三](https://lab.metazone.cc/d/7) · [之四](https://lab.metazone.cc/d/8) · [之五](https://lab.metazone.cc/d/9) · [之六](https://lab.metazone.cc/d/10) · [之七](https://lab.metazone.cc/d/11) · [之九](https://lab.metazone.cc/d/16)
 
 ---
+
+不想再修这篇文章了...坑太多了，原帖链接自己看吧，累了... >! 其实就是偷懒 !<
 
 ## 二、20 坑地图
 
