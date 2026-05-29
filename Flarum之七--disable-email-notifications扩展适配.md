@@ -1,5 +1,7 @@
 # Flarum 之七 - disable-email-notifications 扩展适配 Flarum 2.0
 
+> 导读：本文是「Flarum部署连环坑」系列的一部分。完整的问题梳理与解决方案总结，请参阅：[Flarum之八--20坑复盘与国内部署最小踩坑路径（最终章？）](https://lab.metazone.cc/d/13)
+
 ACG 站升级到 2.0 RC1 之后，准备把全部踩过的坑捋一遍然后推 lab。其中一个必须解决的问题是 `metazone/disable-email-notifications`——这个扩展在 lab 上是启用的，升级不能直接移除，得适配一下。
 
 ## 扩展做了什么

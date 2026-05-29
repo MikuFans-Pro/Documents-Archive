@@ -1,5 +1,7 @@
 # Flarum 之五 - Flarum 1.8 → 2.0 RC1 升级实录
 
+> 导读：本文是「Flarum部署连环坑」系列的一部分。完整的问题梳理与解决方案总结，请参阅：[Flarum之八--20坑复盘与国内部署最小踩坑路径（最终章？）](https://lab.metazone.cc/d/13)
+
 ## 背景
 
 Flarum 2.0 RC1 已经发布了（[discuss.flarum.org/d/39118](https://discuss.flarum.org/d/39118-flarum-200-rc1-released-the-last-mile-to-20)），API 已冻结，从 RC1 到 2.0.0 正式版不会再引入破坏性变更。

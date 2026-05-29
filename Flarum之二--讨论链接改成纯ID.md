@@ -1,5 +1,7 @@
 # Flarum 之二 - Flarum 讨论链接改成纯 ID，干掉中文拼音 slug
 
+> 导读：本文是「Flarum部署连环坑」系列的一部分。完整的问题梳理与解决方案总结，请参阅：[Flarum之八--20坑复盘与国内部署最小踩坑路径（最终章？）](https://lab.metazone.cc/d/13)
+
 Flarum 默认的讨论链接格式是 `/d/{id}-{slug}`，比如：
 
 ```
