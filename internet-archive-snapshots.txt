@@ -28,3 +28,6 @@ https://web.archive.org/web/20260529090446/https://lab.metazone.cc/d/11
 
 Flarum之八--20坑复盘与国内部署最小踩坑路径（最终章？）
 https://web.archive.org/web/20260529085214/https://lab.metazone.cc/d/13
+
+GitHub 仓库快照（Documents-Archive）
+https://web.archive.org/web/20260529094257/https://github.com/MikuFans-Pro/Documents-Archive
